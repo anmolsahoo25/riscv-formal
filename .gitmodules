@@ -1,0 +1,3 @@
+[submodule "cores/shakti-e-rv32i/deps/e-class"]
+	path = cores/shakti-e-rv32i/deps/e-class
+	url = https://github.com/anmolsahoo25/shakti-e-class
